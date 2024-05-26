@@ -1,0 +1,10 @@
+{ "qn":"I would like to change my delivery date", "cat": "1"}
+{ "qn": "change delivery address", "cat": "1"}
+{ "qn": "I would like to delay the delivery as I will be away", "cat": "1"}
+{ "qn": "Can I check the status of order #12345? it has been a while", "cat": "2"}
+{ "qn": "How long will order #483746 take? it has been 3 weeks since i ordered", "cat": "2"}
+{ "qn": "I would like to check my order status, the order number is 234555", "cat": "2"}
+{ "qn": "Can i get a refund , the product is defective", "cat": "3"}
+{ "qn": "What is the return process for a spoilt item?", "cat": "3"}
+{ "qn": "I got a wrong order, how do i do an exchange?", "cat": "3"}
+{ "qn": "The items i received is totally not working, please give me a refund", "cat": "3"}
